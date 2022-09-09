@@ -1,1 +1,1 @@
-[[["図書館","library"], ["建物"]], ["星空","starry"], ["future style", "近未来風"], ["floating", "浮いている"]]
+[[["神社", "shrine"], ["建物"]], ["竜巻", "turnado"], ["future style", "近未来風"], ["floating", "浮いている"]]
