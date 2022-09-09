@@ -55,7 +55,7 @@ class Loading:
         thread1 = threading.Thread(target=self.imageAPI, args=(f'{self.data1[0][0][1]} with {self.data1[1][1]} ', 'word_a.jpg'))
         thread2 = threading.Thread(target=self.imageAPI, args=(f'{self.data2[0][0][1]} with {self.data2[1][1]} {self.data2[2][0]} ', 'word_b.jpg'))
         thread3 = threading.Thread(target=self.imageAPI, args=(f'{self.data3[2][0]} {self.data3[2][1]}{self.data3[0][0][1]} with {self.data3[1][1]} {self.data3[2][0]} ', 'word_c.jpg'))
-        thread1 = threading.Thread(target=self.imageAPI('vocaloid[anime style]'))
+        #thread1 = threading.Thread(target=self.imageAPI('vocaloid[anime style]'))
         thread1.start()
         thread2.start()
         thread3.start()
